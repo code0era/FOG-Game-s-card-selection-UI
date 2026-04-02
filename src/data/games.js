@@ -38,7 +38,7 @@ export const games = [
     image: '/game_cards/shooter.jpg',
     theme: 'shooter',
     color: '#00f0ff',
-    videoUrl: '/videos/zombie.mp4',
+    videoUrl: '/videos/sharpShooter.mp4',
     players: '1 - 2',
     duration: '4 mins',
     age: '12+'

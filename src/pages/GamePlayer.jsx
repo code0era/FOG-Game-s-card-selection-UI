@@ -3,7 +3,7 @@ import React, { useEffect, useRef, useState } from 'react';
 const GamePlayer = ({ game, onBack, playerName }) => {
   const playerRef = useRef(null);
   const [isPlaying, setIsPlaying] = useState(true);
-  const [isMuted, setIsMuted] = useState(true);
+  const [isMuted, setIsMuted] = useState(false);
   const [countdown, setCountdown] = useState(3);
   const [showCountdown, setShowCountdown] = useState(true);
   const [videoLoaded, setVideoLoaded] = useState(false);
