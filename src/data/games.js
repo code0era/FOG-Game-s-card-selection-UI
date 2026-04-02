@@ -104,7 +104,7 @@ export const games = [
     image: '/game_cards/ninja_stealth_1775153970759.png',
     theme: 'ninja',
     color: '#0033cc',
-    videoUrl: '/videos/neon run.mp4',
+    videoUrl: '/videos/Ninja Blade.mp4',
     players: '1',
     duration: '6 mins',
     age: '12+'
