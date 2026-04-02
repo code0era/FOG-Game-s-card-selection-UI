@@ -5,22 +5,22 @@
 ### Project Showcase
 | Dark Terminal View | Light Frost Interface |
 | :---: | :---: |
-| ![Selection Dark](selection_dark.png) | ![Selection Light](selection_light.png) |
+| ![Selection Dark](assets/selection_dark.png) | ![Selection Light](assets/selection_light.png) |
 
 ### Dashboard & Navigation
 | Interface Overview | Navigation Menu |
 | :---: | :---: |
-| ![alt text](<Screenshot 2026-04-03 033513.png>) | ![alt text](<Screenshot 2026-04-03 033551.png>) |
+| ![alt text](assets/Screenshot%202026-04-03%20033513.png) | ![alt text](assets/Screenshot%202026-04-03%20033551.png) |
 
 ### Game Details & Modules
 | Card Focus | Gameplay Preview |
 | :---: | :---: |
-| ![Card Focus](card_focus.png) | ![alt text](<Screenshot 2026-04-03 033541.png>) |
+| ![Card Focus](assets/card_focus.png) | ![alt text](assets/Screenshot%202026-04-03%20033541.png) |
 
 ### Identity Protocol
 | Operative ID Input | System Overview |
 | :---: | :---: |
-| ![alt text](<Screenshot 2026-04-03 033524.png>) | ![alt text](image.png) |
+| ![alt text](assets/Screenshot%202026-04-03%20033524.png) | ![alt text](assets/image.png) |
 
 ## Overview
 **FOG ARENA** is a premium, high-performance game selection interface built for the FOG Technologies internship assignment. It features a cutting-edge Sci-Fi aesthetic, dynamic backgrounds, and a seamless user experience for selecting various gaming modules.
