@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import GameSelection from './pages/GameSelection';
 import GamePlayer from './pages/GamePlayer';
 import './App.css';
@@ -6,6 +6,15 @@ import './App.css';
 function App() {
   const [selectedGame, setSelectedGame] = useState(null);
   const [playerName, setPlayerName] = useState('GUEST_PLAYER');
+  const [theme, setTheme] = useState('dark');
+
+  useEffect(() => {
+    document.documentElement.setAttribute('data-theme', theme);
+  }, [theme]);
+
+  const toggleTheme = () => {
+    setTheme(prev => prev === 'dark' ? 'light' : 'dark');
+  };
 
   // Simple routing based on state
   return (
@@ -22,6 +31,8 @@ function App() {
             setSelectedGame(game);
             setPlayerName(name || 'GUEST_PLAYER');
           }} 
+          theme={theme}
+          toggleTheme={toggleTheme}
         />
       )}
     </div>
