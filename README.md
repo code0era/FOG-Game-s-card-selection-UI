@@ -1,6 +1,15 @@
 # FOG ARENA - Game Selection Interface
 
+## Visual Gallery
+
+### Dark Mode (FOG ARENA Terminal)
 ![Selection Dark](selection_dark.png)
+
+### Light Mode (Clean Frost Interface)
+![Selection Light](selection_light.png)
+
+### Dynamic Game Card Focus
+![Card Focus](card_focus.png)
 
 ## Overview
 **FOG ARENA** is a premium, high-performance game selection interface built for the FOG Technologies internship assignment. It features a cutting-edge Sci-Fi aesthetic, dynamic backgrounds, and a seamless user experience for selecting various gaming modules.
@@ -54,15 +63,3 @@ Built-in alias input for tracking player identity across the FOG ecosystem, feat
 ## Development Credits
 **MADE BY GRINDING THE NIGHT**  
 © CODEERA PRODUCT 2026
-
----
-
-### Screenshots
-
-| Dark Mode Interface | Light Mode Interface |
-| :---: | :---: |
-| ![Selection Dark](selection_dark.png) | ![Selection Light](selection_light.png) |
-
-| Game Card Detail | Operative Identification |
-| :---: | :---: |
-| ![Card Focus](card_focus.png) | *Glows adjust based on selection* |
